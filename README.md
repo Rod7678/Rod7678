@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rod7678
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React to improve
+- 💞️ I’m looking to collaborate on web devlopment
+- 📫 How to reach me
 - 😎 I'm always on work
 
 <!---
